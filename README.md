@@ -164,6 +164,8 @@ Initial admin password: `/opt/sonatype-work/nexus3/admin.password`
 Create a hosted Maven repository:
 **Administration → Repositories → Create repository → maven2 (hosted) → Name:** `maven-releases`
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d78a706-cf2e-479e-8c8a-0e763dbedb4d" />
+
 ---
 
 ### 4 — Install & Configure Tomcat (Manual Installation)
