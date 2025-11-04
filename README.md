@@ -311,8 +311,8 @@ Add:
 
 | Node       | Label        | Purpose          |
 | ---------- | ------------ | ---------------- |
-| SonarNode  | `SonarNode`  | Build + analysis |
-| TomcatNode | `TomcatNode` | Deployment       |
+| SonarNode  | `Sonar`  | Build + analysis |
+| TomcatNode | `Tomcat` | Deployment       |
 
 
 <img width="1920" height="1080" alt="58" src="https://github.com/user-attachments/assets/919d4cef-b777-4d0c-b777-3040cee6ad47" />
