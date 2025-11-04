@@ -23,8 +23,8 @@ Everything is orchestrated through a **Jenkinsfile**, triggered by a **GitHub we
 
 Provision the following (Ubuntu 22.04 LTS recommended):
 
-| Component | Purpose | Example IP | Notes |
-|------------|----------|------------|-------|
+| Component | Purpose | Example IP |
+|------------|----------|------------|
 | Jenkins Master | CI/CD orchestration | Handles builds, triggers, pipelines |
 | SonarQube Server | Code analysis + build agent | Can double as a Jenkins agent |
 | Nexus Repository | Artifact storage  | Host for `maven-releases` |
