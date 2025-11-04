@@ -399,8 +399,6 @@ pipeline {
 ---
 ## Other Screenshots
 
-<img width="1920" height="1080" alt="60" src="https://github.com/user-attachments/assets/ab0d6ce2-7729-4f29-98cb-8fbc6d75417b" />
-
 <img width="1920" height="1080" alt="62" src="https://github.com/user-attachments/assets/9276df07-9358-48de-b8b4-15f95546e940" />
 
 <img width="1920" height="1080" alt="63" src="https://github.com/user-attachments/assets/ff3b27f6-4bbc-4fd6-b89a-b6af32a06a81" />
