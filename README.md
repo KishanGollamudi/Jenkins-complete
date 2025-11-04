@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="52" src="https://github.com/user-attachments/assets/26f6464b-a67a-4c9b-af3d-f2853a7b7f46" /># 🚀 CI/CD Integration: GitHub → Jenkins → SonarQube → Nexus → Tomcat
+# 🚀 CI/CD Integration: GitHub → Jenkins → SonarQube → Nexus → Tomcat
 
 A complete end-to-end automation pipeline integrating **GitHub**, **Jenkins**, **SonarQube**, **Nexus**, and **Tomcat** for continuous integration, static analysis, artifact management, and automated deployment.
 
