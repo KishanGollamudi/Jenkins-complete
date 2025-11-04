@@ -261,6 +261,7 @@ sudo apt install -y jenkins
 sudo systemctl enable --now jenkins
 ```
 
+
 Access Jenkins at:
 👉 `http://<JENKINS_IP>:8080`
 Use the initial admin password from:
@@ -268,6 +269,9 @@ Use the initial admin password from:
 ```bash
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
+<img width="1920" height="1080" alt="48" src="https://github.com/user-attachments/assets/b32cc1df-57e5-4c06-97c7-af740eb1d7ca" />
+<img width="1920" height="1080" alt="49" src="https://github.com/user-attachments/assets/1b54a169-660f-4ef6-a617-44d2f0c17134" />
+
 
 ---
 
